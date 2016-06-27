@@ -1,0 +1,32 @@
+a {
+  text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.main{
+	font-family: 'Trebuchet MS', comic,  sans-serif;
+}
+.navigation{
+	
+}
+nav {
+	font-family: arial;
+}
+nav ul{
+	display: inline;
+	text-align: right;
+}
+nav li{
+	display: inline;
+	font-size: 25px;
+	padding: 10px;
+}
+nav a{
+	height: 60px;
+	text-decoration: none;
+	text-align: right;
+}
+h2{
+	text-align: right;
+}

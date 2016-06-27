@@ -1,0 +1,18 @@
+/*.arrow {
+  position: absolute; 
+  top: 40px; 
+  right: 230px;
+}
+*/
+body{
+	position: relative;
+	top: 650px;
+	left: 420px;
+}
+html{
+	width: 100%;
+	height: 100%;
+	background-image: url("background.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
