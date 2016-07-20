@@ -1,14 +1,29 @@
+html,body{
+	margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
 a {
   text-decoration: none;
+  color: white;
 }
 a:hover {
 	text-decoration: underline;
 }
 .main{
 	font-family: 'Trebuchet MS', comic,  sans-serif;
+	background-color: white;
+	height: 5em;
 }
 .navigation{
-	
+	font-family: 'Trebuchet MS', comic,  sans-serif;
+	background-color: black;
+	height: 5em;
+	color: red;
+	text-align: right;
 }
 nav {
 	font-family: arial;
@@ -28,5 +43,27 @@ nav a{
 	text-align: right;
 }
 h2{
-	text-align: right;
+
+}
+.whoAreWe{
+	background-color: rgb(250,107,126);
+	height: 350px;
+	width: 100%;
+}
+h3{
+	font-family: Raleway,Helvetica, arial;
+	font-size: 36px;
+	letter-spacing: 1.5px;
+}
+.description{
+	font-family: 'Helvetica Neue',Helvetica, arial;
+	font-size: 16.5px;
+	letter-spacing: 1.1px;
+	width: 60%;
+}
+table{
+	color: white;
+	font-family: 'Helvetica Neue',Helvetica, arial;
+	font-size: 15px;
+	letter-spacing: 1.1px;
 }

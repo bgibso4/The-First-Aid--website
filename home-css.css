@@ -25,16 +25,6 @@ a:hover {
 	color: red;
 	text-align: right;
 }
-.description{
-	font-family: 'Helvetica Neue',Helvetica, arial;
-	font-size: 16.5px;
-	font-style: italic;
-	letter-spacing: 1.1px;
-}
-.brief{
-	font-family: 'Helvetica Neue',Helvetica, arial;
-	font-size: 22px;
-}
 nav {
 	font-family: arial;
 }
@@ -54,12 +44,4 @@ nav a{
 }
 h2{
 	text-align: right;
-}
-table{
-	text-align: center;
-}
-.teamheader{
-	font-family: Raleway,Helvetica, arial;
-	font-size: 35px;
-	letter-spacing: 1.5px;
 }

@@ -1,0 +1,66 @@
+html,body{
+	margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+	text-decoration: underline;
+}
+.main{
+	font-family: 'Trebuchet MS', comic,  sans-serif;
+	background-color: white;
+	height: 5em;
+}
+.navigation{
+	font-family: 'Trebuchet MS', comic,  sans-serif;
+	background-color: black;
+	height: 5em;
+	color: red;
+	text-align: right;
+}
+nav {
+	font-family: arial;
+}
+nav ul{
+	display: inline;
+	text-align: right;
+}
+nav li{
+	display: inline;
+	font-size: 25px;
+	padding: 10px;
+}
+nav a{
+	height: 60px;
+	text-decoration: none;
+	text-align: right;
+}
+h2{
+	text-align: right;
+	background-color: black;
+}
+.name{
+	font-family: 'Helvetica Neue',Helvetica, arial;
+	font-size: 22px;
+}
+.job{
+	font-family: 'Helvetica Neue',Helvetica, arial;
+	font-size: 22px;
+	font-style: italic;
+}
+.description{
+	font-family: 'Helvetica Neue',Helvetica, arial;
+	font-size: 18px;
+}
+.teamheader{
+	font-family: Raleway,Helvetica, arial;
+	font-size: 35px;
+	letter-spacing: 1.5px;
+}
